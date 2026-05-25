@@ -6,7 +6,7 @@
 import express, { Request, Response, NextFunction } from "express";
 import cors from "cors";
 import dotenv from "dotenv";
-import apiRouter from "./backend/routes";
+import apiRouter from "./backend/routes.ts";
 
 // Load Environment Configuration
 dotenv.config();
