@@ -1,0 +1,6 @@
+{
+  "name": "Sixsigma AI — LMS Website",
+  "description": "Senior-engineered LMS architecture with integrated branch specializations (Electrical, Mechanical, Civil, ECE, CS) featuring secure auth, progress tracking, dynamic Stripe payment simulators, and customized AI Tutor chats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
